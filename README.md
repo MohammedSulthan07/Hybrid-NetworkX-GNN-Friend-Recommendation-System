@@ -133,5 +133,5 @@ Visualization shows:
 
 * 🔮 Graph Attention Networks (GAT)
 * 📈 Trainable link prediction head
-*🧪 Datasets like Cora, PubMed
-*🌐 Deploy as a web API / Streamlit app
+* 🧪 Datasets like Cora, PubMed
+* 🌐 Deploy as a web API / Streamlit app
